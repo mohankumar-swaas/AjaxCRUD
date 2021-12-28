@@ -36,7 +36,7 @@ namespace AjaxCRUD.Controllers
         {
             return Json(StuDb.Delete(ID), JsonRequestBehavior.AllowGet);
             
-
+            //hi bro//
         }
 
     }
